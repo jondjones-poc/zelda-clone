@@ -1,4 +1,4 @@
-# Zedla - By Jon D Jones 💥
+# Zelda - By Jon D Jones 💥
 
 This project makes uses of:
 
